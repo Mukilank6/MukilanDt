@@ -1,0 +1,20 @@
+[{
+    "email" : "harry12@gmail.com",
+    "Password" : "Password1",
+    "productName" : "ADIDAS ORIGINAL",
+    "homePage" : "https://rahulshettyacademy.com/client",
+    "CVV" :"321",
+    "Name" : "Harry",
+    "Coupon" : "$@#%124"
+},
+{
+    "email" : "viratSpeed@gmail.com",
+    "Password" : "Password1",
+    "productName" : "IPHONE 13 PRO",
+    "homePage" : "https://rahulshettyacademy.com/client",
+    "CVV" :"301",
+    "Name" : "Pahm",
+    "Coupon" : "$@3%124"
+}
+
+]
