@@ -1,7 +1,7 @@
 const {test} = require('@playwright/test');
 const {SupportPOManager} = require('../SupportPageObject/SupportPOManager');
 
-test.only('Directv Prod Test', async({page})=>
+test('Directv Prod Test', async({page})=>
 {
     await page.goto("https://www.directv.com/support");
 

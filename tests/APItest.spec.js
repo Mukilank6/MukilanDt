@@ -33,7 +33,7 @@ test('APItest', async({page})=>
 }
 )
 
-test.only('Delete Article', async({page})=>
+test('Delete Article', async({page})=>
 {
     const response = await page.request.post('https://conduit-api.bondaracademy.com/api/users/login', {
         data: {
